@@ -1,0 +1,6 @@
+To compile this project -
+1. Download the Gcc/G++ Compilar
+2. Open the command prompt and access your project file using CD command
+3. And run the CVSF.cpp file using following command 
+   g++ CVSF.cpp -o myexe
+4. run myexe
